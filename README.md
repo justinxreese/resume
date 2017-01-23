@@ -27,10 +27,10 @@ CEO, Since September 2014
 - Teach courses to enterprise customers on Ruby, Acceptance Testing, and JavaScript
 
 ### Advisory Roles
-- Western Pennsylvania Regional Data Center, Board Member since 2015
-- Code & Supply Scholarship Fund, President since 2016
-- AlphaLab, Mentor to cohorts at one of nation's top business incubators
-- GiftID, Technical and Business advisement
+- Western Pennsylvania Regional Data Center; Board member since 2015
+- Code & Supply Scholarship Fund; President since 2016
+- AlphaLab; Mentor to cohorts at one of nation's top business incubators
+- GiftID; Technical and business advisement
 
 ## Previous Roles
 
